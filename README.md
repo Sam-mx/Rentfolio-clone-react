@@ -1,4 +1,8 @@
-# Rentfolio-clone-react
-I'm testing react {props} to build a Rentfolio clone just for displaying cards.
-![rentfolio1](https://github.com/Sam-mx/Rentfolio-clone-react/assets/146705452/5cd950e0-c8cb-4987-8def-f92c8ecf2d42)
-![rentfolio2](https://github.com/Sam-mx/Rentfolio-clone-react/assets/146705452/1544a992-fdb8-45b0-9a44-50a622e6b055)
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
